@@ -10,15 +10,12 @@ background-color:#20b2aa;
 
 color: white;   
 }
-nav{
-    text-align: center;
-    padding: 5px
-}
+
 .pink {
     list-style-type: square;
     list-style-position: inside;
     color:#b2aa20 ;
-    
+    margin: 0 0 0 40%;
 }
  a{
     color:#b2aa20 ;
